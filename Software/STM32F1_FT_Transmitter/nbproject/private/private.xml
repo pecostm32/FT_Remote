@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/peter/Data/NetbeansProjects/STM32/F103/STM32F1_FT_Remote_Control/STM32F1_FT_Transmitter/stm32f103_ft_transmitter.c</file>
+            <file>file:/home/peter/Data/NetbeansProjects/STM32/F103/STM32F1_FT_Remote_Control/stm32f103_nrf905.h</file>
+            <file>file:/home/peter/Data/NetbeansProjects/STM32/F103/STM32F1_FT_Remote_Control/STM32F1_FT_Transmitter/todo.txt</file>
+            <file>file:/home/peter/Data/NetbeansProjects/STM32/F103/STM32F1_FT_Remote_Control/stm32f103_nrf905.c</file>
+            <file>file:/home/peter/Data/NetbeansProjects/STM32/F103/STM32F1_FT_Remote_Control/fischertechnik_remote_control.h</file>
+        </group>
+    </open-files>
+</project-private>
