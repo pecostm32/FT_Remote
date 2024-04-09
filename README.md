@@ -13,3 +13,10 @@ As per the lisence, I take no reponsability for what is in this repository. Use 
 The source code for the firmware of both boards is based on shared files all included in the repository. It is fully
 bare metal and no extras are needed. It may be that you have to tweak the makefile to make it work from command line
 directly. I use netbeans 8.2.
+
+-------------------------------------------------------------------------------------------------------------------------
+Still to do:
+
+The transmitter needs code for battery status monitoring. At the moment the power LED just blinks all the time, but this
+needs to be changed to constant on when the batteries are fresh and fade when the voltage drops and start to blink when
+the voltage reaches a certain low point.
